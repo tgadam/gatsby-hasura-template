@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/gatsby-hasura-template',
+    siteUrl: 'https://tgadam.github.io/gatsby-hasura-template/',
     gaTrackingId: null,
     trailingSlash: false,
   },
