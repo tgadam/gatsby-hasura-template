@@ -1,0 +1,1 @@
+# gatsby-hasura-template
